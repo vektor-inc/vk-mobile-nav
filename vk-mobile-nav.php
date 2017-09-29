@@ -11,3 +11,5 @@
  *
  * @package         Vk_Mobile_Nav
  */
+
+require_once( 'inc/vk-mobile-nav-config.php' );
